@@ -8482,7 +8482,7 @@ cc_prebuilt_library_shared {
                 "libdisplaydebug",
                 "libsdm-color",
                 "libbinder",
-                "libtinyxml2-v34",
+                "libtinyxml2_shim",
                 "libsdmutils",
                 "libc++",
                 "libc",
