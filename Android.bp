@@ -6850,7 +6850,6 @@ cc_prebuilt_library_shared {
                 "libsensorndkbridge",
                 "libqmimotext",
                 "liblog",
-                "libqsap_sdk",
                 "vendor.qti.hardware.bluetooth_sar@1.1",
                 "libhidlbase",
                 "libxml2",
