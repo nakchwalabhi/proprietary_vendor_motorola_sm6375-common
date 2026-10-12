@@ -12917,7 +12917,7 @@ cc_prebuilt_library_shared {
                 "proprietary/system_ext/lib/vendor.qti.hardware.qccsyshal@1.2-halimpl.so",
             ],
             shared_libs: [
-                "libprotobuf-cpp-full-21.7",
+                "libprotobuf-cpp-full-3.9.1-vendorcompat",
                 "libcutils",
                 "liblog",
                 "libhidlbase",
@@ -12939,7 +12939,7 @@ cc_prebuilt_library_shared {
                 "proprietary/system_ext/lib64/vendor.qti.hardware.qccsyshal@1.2-halimpl.so",
             ],
             shared_libs: [
-                "libprotobuf-cpp-full-21.7",
+                "libprotobuf-cpp-full-3.9.1-vendorcompat",
                 "libcutils",
                 "liblog",
                 "libhidlbase",
